@@ -2,14 +2,14 @@
 <h3 align="center">Creating Innovative, Functional, and User-Friendly Websites for Digital Solutions. 🚀</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BagusErlanggaa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagusErlanggaa&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Profile Trophy
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=BagusErlanggaa&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=bagusErlanggaa&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies">
 </div>
 
 ---
@@ -37,9 +37,9 @@
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BagusErlanggaa&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BagusErlanggaa&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BagusErlanggaa&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bagusErlanggaa&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bagusErlanggaa&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bagusErlanggaa&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BagusErlanggaa&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BagusErlanggaa&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
 </div>
@@ -48,5 +48,5 @@
 
 ## 📈 Contribution & Commit Analysis
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BagusErlanggaa&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagusErlanggaa&theme=radical" />
 </p>
